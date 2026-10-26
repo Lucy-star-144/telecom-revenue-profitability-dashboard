@@ -64,3 +64,14 @@ Interactive slicers and drill-through pages support more detailed exploration of
 
 ## Learning Outcomes
 This project provided practical experience in data preparation, relational data modelling, DAX, interactive dashboard development, KPI validation, and translating data into business insights.
+
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](Screenshots/MainDashboard.png)
+
+### Markets and Regions Analysis
+![Markets and Regions Analysis](Screenshots/Markets_Regions_Over_Underperforming.png)
+
+### Retention and Churn-Risk Analysis
+![Retention and Churn-Risk Analysis](Screenshots/RetentionVsChurn.png)
